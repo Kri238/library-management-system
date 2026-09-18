@@ -42,8 +42,8 @@ LibraryManagementSystem/
 
 ### 2. Clone the repository
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Kri238/library-management-system
+
 ```
 
 ### 3. Compile
